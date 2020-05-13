@@ -1,0 +1,18 @@
+*{
+	font-family: "Roboto Condensed";
+	
+ }
+
+ body{
+	background-color: #211316;
+	background-position: center;
+	overflow-x: hidden!important;
+	
+}
+.username{
+    text-transform: uppercase;
+}
+.form-control{
+	background-color: transparent!important;
+}
+ 

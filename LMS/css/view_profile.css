@@ -1,0 +1,30 @@
+*{
+	font-family: "Roboto Condensed";
+}
+body{
+	background-color: #211316;
+	background-position: center;
+	background-size: cover;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	position: relative;
+	height: 100vh;
+}
+.username{
+    text-transform: uppercase;
+}
+.form-control{
+	background-color: transparent!important;
+}
+.row{
+    padding-top: 35px;
+    margin-left: 120px;
+}
+@media (min-width: 667px){
+    #nav {
+        padding: 120px 30px 70px 20px;
+    }
+    .navbar-brand{
+            font-size: 20px;
+        }   
+    }
